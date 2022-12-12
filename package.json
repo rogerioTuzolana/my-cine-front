@@ -1,0 +1,43 @@
+{
+  "name": "mcp-project",
+  "version": "0.0.1",
+  "description": "my cineplace is a plataforma for do a reserve on cinema",
+  "productName": "MCP App",
+  "author": "Yuri Rego - Elizabeth Mateus - Edson Xauvunge - Rogério Tuzolana",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "apexcharts": "^3.35.4",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "quasar": "^2.6.0",
+    "vue": "^3.0.0",
+    "vue-apexcharts": "^1.6.2",
+    "vue-router": "^4.0.0",
+    "vue-sweetalert2": "^5.0.5",
+    "vue3-apexcharts": "^1.4.1",
+    "vuex": "^4.0.1"
+  },
+  "devDependencies": {
+    "@quasar/app-webpack": "^3.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
